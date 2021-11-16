@@ -6,10 +6,11 @@
     <img src="images/brainkit.png" alt="Logo" width="230" height="230">
   </a>
 
-  <h3 align="center">Brainkit</h3>
+  <h1 align="center">Brainkit</h1>
 
   <p align="center">
     Toolkit for pentesting which gives you descriptions and commands for a specified tool!
+    <br />(Basically a glorified cheat sheet)
     <br /><br />
     <a href="https://github.com/aohpwsfi/Brainkit/blob/main/brainkit.py"><strong>Explore the toolkit »</strong></a>
     <br />
@@ -26,7 +27,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary><strong>Table of Contents</strong></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
