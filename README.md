@@ -3,15 +3,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/aohpwsfi/Brainkit">
-    <img src="images/brainkit.png" alt="Logo" width="80" height="80">
+    <img src="images/brainkit.png" alt="Logo" width="230" height="230">
   </a>
 
   <h3 align="center">Brainkit</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Toolkit for pentesting which gives you descriptions and commands for a specified tool!
+    <br /><br />
+    <a href="https://github.com/aohpwsfi/Brainkit/blob/main/brainkit.py"><strong>Explore the toolkit »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
