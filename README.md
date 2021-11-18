@@ -11,7 +11,7 @@
   <p align="center">
     Tool which can be used for pretty much anything, a glorified <br />cheatsheet with preview functions for the command line!
     <br /><br />
-    <a href="https://github.com/aohpwsfi/Brainkit/blob/main/brainkit.py"><strong>Explore the tool »</strong></a>
+    <a href="https://github.com/aohpwsfi/Brainkit/tree/main/brainkit"><strong>Explore the tool »</strong></a>
     <br />
     <br />
     <a href="https://github.com/aohpwsfi/Brainkit#about-the-project">View Demo</a>
