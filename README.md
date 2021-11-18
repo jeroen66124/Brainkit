@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/14)
+<img src="images/screenshot.png" alt="Logo" width="650" height="650">
 
 ### Built With
 
