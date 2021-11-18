@@ -96,7 +96,7 @@ This is how to install Brainkit.
 
 1. Clone the repo
    ```sh
-   cd Downloads/test && git clone https://github.com/aohpwsfi/Brainkit.git && cd Brainkit && pip3 install -r requirements.txt && sudo chmod +x brainkit.sh
+   git clone https://github.com/aohpwsfi/Brainkit.git
    ```
 2. Install pip packages
    ```sh
