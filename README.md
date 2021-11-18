@@ -55,7 +55,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/screenshot.png" alt="Logo" width="650" height="650">
+<p align="center">
+  <img width="650" height="650" src="images/preview.png">
+</p>
 
 ### Built With
 
