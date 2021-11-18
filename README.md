@@ -120,6 +120,7 @@ This is how to install Brainkit.
 
 Brainkit can be used for pretty much anything, it is a glorified cheat sheet with preview functions for the command line. 
 You can add and remove all sorts of files to the /database as long as [Batcat](https://github.com/sharkdp/bat) supports it.
+Once a file has been added to the database, it can be previewed quickly within the tool.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
