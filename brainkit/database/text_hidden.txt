@@ -1,0 +1,8 @@
+Hi, this is an hidden file!
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Cras et augue consectetur, sollicitudin mauris nec, dapibus ante. 
+Sed et mollis diam, eget blandit arcu. Suspendisse iaculis 
+convallis magna, in elementum orci ornare ut. Pellentesque congue 
+molestie consectetur. Sed tortor velit, accumsan ac leo eu, 
+accumsan consectetur lacus. Donec tincidunt finibus risus, quis 
