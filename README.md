@@ -101,7 +101,7 @@ This is how to install Brainkit.
    ```
 3. Install pip packages
    ```sh
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 4. Launch Brainkit
    ```js
