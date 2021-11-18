@@ -72,7 +72,7 @@ This section lists any major frameworks/libraries used by this project.
 ## Getting Started
 
 This is an example of how you set up the Brainkit tool.<br>
-Follow the instructions to get a local copy up and running, following these simple steps.
+Follow the instructions to get a local copy up and running.
 
 ### Prerequisites
 
