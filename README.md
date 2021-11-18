@@ -15,7 +15,7 @@
     <a href="https://github.com/aohpwsfi/Brainkit/blob/main/brainkit.py"><strong>Explore the toolkit »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/aohpwsfi/Brainkit#about-the-project">View Demo</a>
     ·
     <a href="https://github.com/aohpwsfi/Brainkit/issues">Report Bug</a>
     ·
