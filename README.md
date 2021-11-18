@@ -9,9 +9,9 @@
   <h1 align="center">Brainkit</h1>
 
   <p align="center">
-    Tool which can be used for pretty much anything, a real-time <br />glorified cheat sheet with preview functions for the command line!
+    Tool which can be used for pretty much anything, a glorified <br />cheatsheet with preview functions for the command line!
     <br /><br />
-    <a href="https://github.com/aohpwsfi/Brainkit/blob/main/brainkit.py"><strong>Explore the toolkit »</strong></a>
+    <a href="https://github.com/aohpwsfi/Brainkit/blob/main/brainkit.py"><strong>Explore the tool »</strong></a>
     <br />
     <br />
     <a href="https://github.com/aohpwsfi/Brainkit#about-the-project">View Demo</a>
@@ -71,7 +71,7 @@ This section lists any major frameworks/libraries used by this project.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you set up the Brainkit toolkit.<br>
+This is an example of how you set up the Brainkit tool.<br>
 Follow the instructions to get a local copy up and running, following these simple steps.
 
 ### Prerequisites
@@ -118,7 +118,7 @@ This is how to install Brainkit.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Brainkit can be used for pretty much anything, it is a real-time glorified cheat sheet with preview functions for the command line. 
+Brainkit can be used for pretty much anything, it is a glorified cheat sheet with preview functions for the command line. 
 You can add and remove all sorts of files to the /database as long as [Batcat](https://github.com/sharkdp/bat) supports it.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
