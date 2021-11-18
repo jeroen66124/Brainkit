@@ -86,7 +86,11 @@ This is how to install the prerequisites.
   ```sh
   apt install python3-pip
   ```
-
+* Bat
+  ```sh
+  apt install bat
+  ```
+  
 ### Installation
 
 This is how to install Brainkit.
@@ -95,17 +99,17 @@ This is how to install Brainkit.
    ```sh
    git clone https://github.com/aohpwsfi/Brainkit.git
    ```
-2. Set execution permissions
-   ```sh
-   sudo chmod +x brainkit.py
-   ```
-3. Install pip packages
+2. Install pip packages
    ```sh
    pip3 install -r requirements.txt
    ```
+3. Set execution permissions
+   ```sh
+   sudo chmod +x brainkit.sh
+   ```
 4. Launch Brainkit
    ```js
-   python3 brainkit.py
+   ./brainkit.sh
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
