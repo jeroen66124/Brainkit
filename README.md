@@ -9,7 +9,7 @@
   <h1 align="center">Brainkit</h1>
 
   <p align="center">
-    A file-view tool which can be used for pretty much anything,<br />with customizable database and preview function for the command line!
+    A file-view tool which can be used for pretty much anything,<br />with customizable database and fast preview function for the command line!
     <br /><br />
     <a href="https://github.com/aohpwsfi/Brainkit/tree/main/brainkit"><strong>Explore the tool »</strong></a>
     <br />
@@ -120,8 +120,7 @@ This is how to install Brainkit.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Brainkit can be used for pretty much anything, it is a glorified cheat sheet with preview function for the command line. 
-You can add and remove all sorts of files to the `/database` as long as [Batcat](https://github.com/sharkdp/bat) supports it.
+Brainkit can be used for pretty much anything, it was originally a glorified cheat sheet which turned out to be a file-viewer with a fast preview function for the command line. You can add and remove all sorts of files to the `/database` as long as [Batcat](https://github.com/sharkdp/bat) supports it.
 Once a file has been added to the database, it can be previewed quickly within the tool.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -131,15 +130,13 @@ Once a file has been added to the database, it can be previewed quickly within t
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Turn run.py into the main executable
+- [ ] Deprecate brainkit.sh as the launch script
+- [ ] Support subfolders in preview function
+- [ ] Compatibility with uncommon file formats
+- [ ] Real time editing of previewed files
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/aohpwsfi/Brainkit/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -175,9 +172,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+aohpwsfi - [@_deactivated08](https://twitter.com/_deactivated08)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/aohpwsfi/Brainkit](https://github.com/aohpwsfi/Brainkit)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -188,14 +185,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
+* [asciinema](https://asciinema.org/)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [Choose a License](https://choosealicense.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -203,16 +196,4 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
