@@ -79,17 +79,9 @@ Follow the instructions to get a local copy up and running.
 ### Prerequisites
 
 This is how to install the prerequisites.
-* Python
+* Python / Pip / Bat
   ```sh
-  apt install python3
-  ```
-* Pip
-  ```sh
-  apt install python3-pip
-  ```
-* Bat
-  ```sh
-  apt install bat
+  sudo apt install python3 python3-pip bat
   ```
   
 ### Installation
