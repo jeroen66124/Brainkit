@@ -9,7 +9,7 @@
   <h1 align="center">Brainkit</h1>
 
   <p align="center">
-    Flexible toolkit for pentesting which gives you descriptions and commands for a specified tool!
+    Customizable Toolkit which gives you descriptions and example commands for a specified tool!
     <br />(Basically a glorified cheat sheet)
     <br /><br />
     <a href="https://github.com/aohpwsfi/Brainkit/blob/main/brainkit.py"><strong>Explore the toolkit »</strong></a>
