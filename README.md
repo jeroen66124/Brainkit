@@ -9,7 +9,7 @@
   <h1 align="center">Brainkit</h1>
 
   <p align="center">
-    Tool which can be used for pretty much anything, a glorified <br />cheatsheet with preview functions for the command line!
+    A note-view tool which can be used for pretty much anything, a glorified cheatsheet <br />with customizable database and preview functions for the command line!
     <br /><br />
     <a href="https://github.com/aohpwsfi/Brainkit/tree/main/brainkit"><strong>Explore the tool »</strong></a>
     <br />
