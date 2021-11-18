@@ -9,7 +9,7 @@
   <h1 align="center">Brainkit</h1>
 
   <p align="center">
-    A file-view tool which can be used for pretty much anything, a glorified cheat sheet <br />with customizable database and preview functions for the command line!
+    A file-view tool which can be used for pretty much anything, a glorified cheat sheet <br />with customizable database and preview function for the command line!
     <br /><br />
     <a href="https://github.com/aohpwsfi/Brainkit/tree/main/brainkit"><strong>Explore the tool »</strong></a>
     <br />
@@ -118,7 +118,7 @@ This is how to install Brainkit.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Brainkit can be used for pretty much anything, it is a glorified cheat sheet with preview functions for the command line. 
+Brainkit can be used for pretty much anything, it is a glorified cheat sheet with preview function for the command line. 
 You can add and remove all sorts of files to the `/database` as long as [Batcat](https://github.com/sharkdp/bat) supports it.
 Once a file has been added to the database, it can be previewed quickly within the tool.
 
