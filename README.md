@@ -119,9 +119,8 @@ This is how to install Brainkit.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Brainkit can be used for pretty much anything, it is a real-time glorified cheat sheet with preview functions for the command line. 
+You can add and remove all sorts of files to the /database as long as [Bat](https://github.com/sharkdp/bat) supports it.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
