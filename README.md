@@ -9,8 +9,7 @@
   <h1 align="center">Brainkit</h1>
 
   <p align="center">
-    Customizable Toolkit which gives you descriptions and example commands for a specified tool!
-    <br />(Basically a glorified cheat sheet)
+    Tool which can be used for pretty much anything, a real-time <br />glorified cheat sheet with preview functions for the command line!
     <br /><br />
     <a href="https://github.com/aohpwsfi/Brainkit/blob/main/brainkit.py"><strong>Explore the toolkit »</strong></a>
     <br />
@@ -120,7 +119,7 @@ This is how to install Brainkit.
 ## Usage
 
 Brainkit can be used for pretty much anything, it is a real-time glorified cheat sheet with preview functions for the command line. 
-You can add and remove all sorts of files to the /database as long as [Bat](https://github.com/sharkdp/bat) supports it.
+You can add and remove all sorts of files to the /database as long as [Batcat](https://github.com/sharkdp/bat) supports it.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
