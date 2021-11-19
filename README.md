@@ -175,7 +175,7 @@ Project Link: [https://github.com/aohpwsfi/Brainkit](https://github.com/aohpwsfi
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Resources I have used for Brainkit and I would like to give credit to.
 
 * [asciinema](https://asciinema.org/)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
