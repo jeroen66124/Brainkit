@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aohpwsfi/Brainkit">
+  <a href="https://github.com/jeroen66124/Brainkit">
     <img src="images/brainkit.png" alt="Logo" width="230" height="230">
   </a>
 
@@ -11,14 +11,14 @@
   <p align="center">
     A file-view tool which can be used for pretty much anything,<br />with customizable database and fast preview function for the command line!
     <br /><br />
-    <a href="https://github.com/aohpwsfi/Brainkit/tree/main/brainkit"><strong>Explore the tool »</strong></a>
+    <a href="https://github.com/jeroen66124/Brainkit/tree/main/brainkit"><strong>Explore the tool »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aohpwsfi/Brainkit#about-the-project">View Demo</a>
+    <a href="https://github.com/jeroen66124/Brainkit#about-the-project">View Demo</a>
     ·
-    <a href="https://github.com/aohpwsfi/Brainkit/issues">Report Bug</a>
+    <a href="https://github.com/jeroen66124/Brainkit/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aohpwsfi/Brainkit/issues">Request Feature</a>
+    <a href="https://github.com/jeroen66124/Brainkit/issues">Request Feature</a>
   </p>
 </div>
 
@@ -90,7 +90,7 @@ This is how to install Brainkit.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/aohpwsfi/Brainkit.git && cd Brainkit/brainkit
+   git clone https://github.com/jeroen66124/Brainkit.git && cd Brainkit/brainkit
    ```
 2. Install pip packages
    ```sh
@@ -128,7 +128,7 @@ Once a file has been added to the database, it can be previewed quickly within t
 - [ ] Compatibility with uncommon file formats
 - [ ] Real time editing of previewed files
 
-See the [open issues](https://github.com/aohpwsfi/Brainkit/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jeroen66124/Brainkit/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -164,9 +164,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-aohpwsfi - [@_deactivated08](https://twitter.com/_deactivated08)
+jeroen66124 - [@_deactivated08](https://twitter.com/_deactivated08)
 
-Project Link: [https://github.com/aohpwsfi/Brainkit](https://github.com/aohpwsfi/Brainkit)
+Project Link: [https://github.com/jeroen66124/Brainkit](https://github.com/jeroen66124/Brainkit)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
