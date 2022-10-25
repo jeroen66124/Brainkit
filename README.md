@@ -161,17 +161,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-jeroen66124 - [@_deactivated08](https://twitter.com/_deactivated08)
-
-Project Link: [https://github.com/jeroen66124/Brainkit](https://github.com/jeroen66124/Brainkit)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
